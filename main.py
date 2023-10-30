@@ -75,7 +75,7 @@ for term in terms:
     messages.append({"role": "user", "content": msg})
     response = openai.ChatCompletion.create(
         # model="gpt-3.5-turbo",
-        model="gpt-3.5-turbo",
+        model="gpt-3.5-turbo-16k",
         messages=messages,
     )
     res = response["choices"][0]["message"]["content"]

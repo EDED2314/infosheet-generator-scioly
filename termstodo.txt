@@ -1,8 +1,3 @@
-Species C. megalodon 
-Superorder Batoidea (Rays)
-Superclass Osteichthyes (Bony Fish) 
-Class Actinopterygii (ray-finned)
-Genus Knightia
 Genus Xiphactinus
 Class Sarcopterygii (lobe-finned)
 Genus Eusthenopteron
