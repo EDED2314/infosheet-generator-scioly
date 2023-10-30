@@ -4,6 +4,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 openai.api_key = os.getenv("KEY")
+import time
 
 terms = []
 
@@ -84,4 +85,5 @@ for term in terms:
         f.write(res)
 
     messages.append({"role": "assistant", "content": res})
+    time.sleep(60)
     # count += 1
