@@ -1,0 +1,42 @@
+Genus Otodus
+Genus Carcharocles (formerly Carcharodon)
+Species C. megalodon Superorder Batoidea (Rays)*
+Superclass Osteichthyes (Bony Fish) Class Actinopterygii (ray-finned)
+Genus Knightia
+Genus Xiphactinus*
+Class Sarcopterygii (lobe-finned)
+Genus Eusthenopteron
+Genus Latimeria (Coelacanth) Genus Tiktaalik
+Class Amphibia (Amphibians) Genus Acanthostega Genus Eryops
+Genus Diplocaulus
+Class Reptilia (Reptiles)
+Order Crocodilia (crocodiles)* Order Testudines (turtles)*
+Order Ichthyosauria (Ichthyosaurs)
+Order Squamata
+Family Mosasauridae (Mosasaurs)
+Order Plesiosauria (Plesiosaurs & Pliosaurs)
+Order Pterosauria (Pterosaurs) Clade Dinosauria (Dinosaurs)
+Order Saurischia (lizard-hipped) Suborder Theropoda
+Genus Allosaurus Genus Coelophysis Genus Dilophosaurus Genus Deinonychus* Genus Spinosaurus* Genus Tyrannosaurus Genus Velociraptor
+Suborder Sauropodomorpha
+Genus Apatosaurus* Genus Brachiosaurus Genus Diplodocus Genus Patagotitan*
+Genus Plateosaurus
+Order Ornithischia (bird-hipped)
+Infraorder Ankylosauria Genus Ankylosaurus
+Infraorder Ceratopsia Genus Triceratops Genus Protoceratops*
+Infraorder Ornithopoda Genus Iguanodon Genus Parasaurolophus Genus Maiasaura
+Infraorder Pachycephalosauria Genus Pachycephalosaurus*
+Infraorder Stegosauria Genus Stegosaurus
+Class Aves (Birds)
+Genus Archaeopteryx Genus Titanis (Terror Bird) Genus Hesperornis*
+Clade Synapsida
+Stem Mammals/Proto-Mammals
+Genus Dimetrodon (pelycosaurs) Genus Lystrosaurus (therapsids) Genus Gorgonops (therapsid)*
+Class Mammalia (Mammals)
+Genus Basilosaurus (prehistoric whale) Genus 􏰉􏰆􏰇􏰇􏰅 (modern horse)
+Genus Mesohippus (three-toed horse) Genus Australopithecus (hominin)* Genus Homo (hominin)
+Species H. neanderthalensis Species H. erectus*
+Species H. sapiens
+Genus Mammut (Mastodon) Genus Mammuthus (Mammoth)
+Species M. primigenius Genus Megacerops (brontothere)
+Genus Megalonyx (Giant Ground Sloth)* Genus Smilodon (saber-toothed cat) Genus Merycoidodon (oreodont)*
