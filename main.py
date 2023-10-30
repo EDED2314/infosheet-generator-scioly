@@ -7,7 +7,7 @@ openai.api_key = os.getenv("KEY")
 
 terms = []
 
-with open("terms.txt", "r") as f:
+with open("termstodo.txt", "r") as f:
     terms = f.readlines()
 
 
