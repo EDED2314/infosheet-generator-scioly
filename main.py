@@ -72,7 +72,8 @@ for term in terms:
     msg = f"Please generate an info sheet based on this format for this term: {term}"
 
     print(msg)
-    messages.append({"role": "user", "content": msg})
+    e = messages
+    e.append({"role": "user", "content": msg})
     response = openai.ChatCompletion.create(
         # model="gpt-3.5-turbo",
         model="gpt-3.5-turbo-16k",
@@ -84,6 +85,6 @@ for term in terms:
     with open(f"terms/{term}.md", "w+") as f:
         f.write(res)
 
-    messages.append({"role": "assistant", "content": res})
+    e.append({"role": "assistant", "content": res})
     time.sleep(60)
     # count += 1
