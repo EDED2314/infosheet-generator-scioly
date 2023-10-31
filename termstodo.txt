@@ -1,10 +1,3 @@
-Genus Parasaurolophus 
-Genus Maiasaura
-Infraorder Pachycephalosauria 
-Genus Pachycephalosaurus
-Infraorder Stegosauria 
-Genus Stegosaurus
-Class Aves (Birds)
 Genus Archaeopteryx 
 Genus Titanis (Terror Bird) 
 Genus Hesperornis
