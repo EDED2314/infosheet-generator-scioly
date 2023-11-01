@@ -1,24 +1,7 @@
-Genus Archaeopteryx 
-Genus Titanis (Terror Bird) 
-Genus Hesperornis
-Clade Synapsida
-Stem Mammals/Proto-Mammals
-Genus Dimetrodon (pelycosaurs) 
-Genus Lystrosaurus (therapsids) 
-Genus Gorgonops (therapsid)
-Class Mammalia (Mammals)
-Genus Basilosaurus (prehistoric whale) 
-Genus Equus (modern horse)
-Genus Mesohippus (three-toed horse) 
-Genus Australopithecus (hominin) 
-Genus Homo (hominin)
-Species H. neanderthalensis 
-Species H. erectus*
-Species H. sapiens
 Genus Mammut (Mastodon) 
 Genus Mammuthus (Mammoth)
 Species M. primigenius 
 Genus Megacerops (brontothere)
 Genus Megalonyx (Giant Ground Sloth)
 Genus Smilodon (saber-toothed cat) 
-Genus Merycoidodon (oreodont)*
+Genus Merycoidodon (oreodont)
