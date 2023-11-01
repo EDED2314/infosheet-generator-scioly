@@ -1,7 +1,1 @@
-Genus Mammut (Mastodon) 
-Genus Mammuthus (Mammoth)
-Species M. primigenius 
-Genus Megacerops (brontothere)
-Genus Megalonyx (Giant Ground Sloth)
-Genus Smilodon (saber-toothed cat) 
-Genus Merycoidodon (oreodont)
+
